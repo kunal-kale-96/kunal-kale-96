@@ -2,7 +2,7 @@
 
 # Hi, I'm Kunal Sandip Kale 👋
 
-### Web Developer | Computer Science (Artificial Intelligence) Graduate
+### Web Developer | Manual Tester | Computer Science (Artificial Intelligence) Graduate
 
 I enjoy building responsive web experiences, solving problems, and exploring how technology can create useful solutions.
 
